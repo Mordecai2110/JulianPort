@@ -46,7 +46,7 @@ const PortfolioSection = () => {
       description:
         "Diseño de landing page para una tienda de productos botánicos naturales. Enfoque en conversión y experiencia de usuario.",
       image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      url: "#",
+      url: "https://thecrazyempanadas.vercel.app/",
     },
     {
       title: "TechSolutions Pro",
